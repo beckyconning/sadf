@@ -1,0 +1,42 @@
+
+  "resourceType": "Account",
+  "id": "G2572738",
+  "text": {
+    "status": "generated",
+    "div": "&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&lt;p&gt;&lt;b&gt;Account&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Account Type&lt;/b&gt;: guarantor-balance&lt;/p&gt;&lt;p&gt;&lt;b&gt;Service Period Start Date&lt;/b&gt;: Aug  5, 2019  5:00 A.M. UTC&lt;/p&gt;&lt;p&gt;&lt;b&gt;Service Period End Date&lt;/b&gt;: Aug  6, 2019  4:59 A.M. UTC&lt;/p&gt;&lt;/div&gt;"
+  },
+  "extension": [
+    {
+      "url": "https://fhir-ehr.cerner.com/r4/StructureDefinition/account-balance",
+      "valueMoney": {
+        "value": "1250.00",
+        "currency": "USD"
+      }
+    },
+    {
+      "url": "https://fhir-ehr.cerner.com/r4/StructureDefinition/account-state",
+      "valueCodeableConcept": {
+        "coding": [
+          {
+            "system": "https://fhir.cerner.com/ec2458f2-1e24-41c8-b71b-0e701af7583d/codeSet/24451",
+            "code": "629234",
+            "display": "Ready to bill",
+            "userSelected": true
+          }
+        ],
+        "text": "Ready to bill"
+      }
+    }
+  ],
+  "status": "active",
+  "type": {
+    "text": "guarantor-balance"
+  },
+  "servicePeriod": {
+    "start": "2019-08-05T05:00:00Z",
+    "end": "2019-08-06T04:59:59Z"
+  },
+  "partOf": {
+    "reference": "Account/F1131724"
+  }
+}
