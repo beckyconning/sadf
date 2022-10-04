@@ -7,7 +7,7 @@
   },
   "text": {
     "status": "generated",
-    "div": "&lt;div xmlns="http://www.w3.org/1999/xhtml">&lt;p>&lt;b>Provenance&lt;/b>&lt;/p>&lt;p>&lt;b>Target&lt;/b>:&lt;/p>&lt;ul>&lt;li>DocumentReference/881049&lt;/li>&lt;/ul>&lt;p>&lt;b>Recorded&lt;/b>: Oct 25, 2019  9:57 A.M. CDT&lt;/p>&lt;p>&lt;b>Agents&lt;/b>:&lt;/p>&lt;dl>&lt;dt>Baseline East Medical Center&lt;/dt>&lt;dd>&lt;b>Agent Type&lt;/b>: Author&lt;/dd>&lt;dd>&lt;b>Agent Role&lt;/b>: Source&lt;/dd>&lt;/dl>&lt;p>&lt;b>Entity Source&lt;/b>: DocumentReference/S-202&lt;/p>&lt;/div>"
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p><b>Provenance</b></p><p><b>Target</b>:</p><ul><li>DocumentReference/881049</li></ul><p><b>Recorded</b>: Oct 25, 2019  9:57 A.M. CDT</p><p><b>Agents</b>:</p><dl><dt>Baseline East Medical Center</dt><dd><b>Agent Type</b>: Author</dd><dd><b>Agent Role</b>: Source</dd></dl><p><b>Entity Source</b>: DocumentReference/S-202</p></div>"
   },
   "target": [
     {

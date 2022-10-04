@@ -9,7 +9,7 @@
     },
     "text": {
       "status": "generated",
-      "div": "<div xmlns=\\"http://www.w3.org/1999/xhtml\\"><p><b>Medication Request</b></p>\\\n          <p><b>Status</b>: Active</p>\\\n          <p><b>Intent</b>: Order</p>\\\n          <p><b>Medication</b>: lisinopril-hydroCHLOROthiazide\n          (lisinopril-hydroCHLOROthiazide 10 mg-12.5 mg oral tablet)</p>\\\n          <p><b>Dosage Instructions</b>: 1 tab, Oral, Daily</p>\\\n          <p><b>Patient</b>: PETERS, TIM A</p><p><b>Authored On</b>: Nov 21, 2020  8:59 P.M. UTC</p></div>"
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p><b>Medication Request</b></p>\\\n          <p><b>Status</b>: Active</p>\\\n          <p><b>Intent</b>: Order</p>\\\n          <p><b>Medication</b>: lisinopril-hydroCHLOROthiazide\n          (lisinopril-hydroCHLOROthiazide 10 mg-12.5 mg oral tablet)</p>\\\n          <p><b>Dosage Instructions</b>: 1 tab, Oral, Daily</p>\\\n          <p><b>Patient</b>: PETERS, TIM A</p><p><b>Authored On</b>: Nov 21, 2020  8:59 P.M. UTC</p></div>"
     },
     "extension": [
       {
@@ -145,7 +145,7 @@
         "doseAndRate": [
           {
             "doseQuantity": {
-              "value": 1.0,
+              "value": 1,
               "unit": "mL",
               "system": "http://unitsofmeasure.org",
               "code": "mL"

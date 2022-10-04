@@ -7,7 +7,7 @@
   },
   "text": {
     "status": "generated",
-    "div": "<div xmlns=\\"http://www.w3.org/1999/xhtml\\"><p><b>Document Reference</b></p><p><b>Patient Name</b>: Parnell, Stephen M</p><p><b>Document Type</b>: Admission Note-Physician</p><p><b>Document Category</b>: Clinical Note</p><p><b>Document Title</b>: Admission H &amp; P</p><p><b>Service End Date</b>: Mar 12, 2021  4:31 P.M. CST</p><p><b>Document Status</b>: Final</p><p><b>Verifying Provider</b>: Braus, Sasha</p></div>"
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p><b>Document Reference</b></p><p><b>Patient Name</b>: Parnell, Stephen M</p><p><b>Document Type</b>: Admission Note-Physician</p><p><b>Document Category</b>: Clinical Note</p><p><b>Document Title</b>: Admission H &amp; P</p><p><b>Service End Date</b>: Mar 12, 2021  4:31 P.M. CST</p><p><b>Document Status</b>: Final</p><p><b>Verifying Provider</b>: Braus, Sasha</p></div>"
   },
   "identifier": [
     {
